@@ -1,2 +1,3 @@
-# tutorial-app
-learning elm via https://github.com/sporto/elm-tutorial
+# Tutorial App
+
+Learning elm routing via https://github.com/sporto/elm-tutorial
