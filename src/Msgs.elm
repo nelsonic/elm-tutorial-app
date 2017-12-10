@@ -9,5 +9,5 @@ import RemoteData exposing (WebData)
 type Msg
     = OnFetchPlayers (WebData (List Player))
     | OnLocationChange Location
-    | ChangeLevel Player int
+    | ChangeLevel Player Int
     | OnPlayerSave (Result Http.Error Player)

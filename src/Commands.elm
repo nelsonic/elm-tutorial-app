@@ -39,7 +39,7 @@ savePlayerUrl playerId =
 
 savePlayerRequest : Player -> Http.Request Player
 savePlayerRequest player =
-    Http.Request 
+    Http.request 
     { body = playerEncoder player |> Http.jsonBody
     , expect = Http.expectJson playerDecoder
     , headers = []
