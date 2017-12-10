@@ -13,7 +13,7 @@ To _run_ the code in this example, run the following:
 
 ## 1. Clone
 ```
-git clone https://github.com/nelsonic/tutorial-app.git && cd tutorial-app
+git clone https://github.com/nelsonic/elm-tutorial-app.git && cd elm-tutorial-app
 ```
 
 ## 2. Install
