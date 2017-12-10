@@ -3,7 +3,7 @@
     {
       "id": "1",
       "name": "Sally",
-      "level": 5
+      "level": 9
     },
     {
       "id": "2",
@@ -13,22 +13,22 @@
     {
       "id": "3",
       "name": "Aki",
-      "level": 3
+      "level": 5
     },
     {
       "id": "4",
       "name": "Maria",
-      "level": 9
+      "level": 2
     },
     {
       "id": "5",
       "name": "Julian",
-      "level": 1
+      "level": 3
     },
     {
       "id": "6",
       "name": "Jaime",
-      "level": 1
+      "level": 7
     }
   ]
 }
